@@ -1,5 +1,7 @@
 Terms of Service for Developers at CanadaMC
 
+Agreement to Terms: By joining the CanadaMC GitHub organization, you agree to be bound by these Terms of Service. If you do not agree to these terms, you must not join the CanadaMC GitHub organization.
+
 Client Acquisition: Any clients acquired by developers while working at CanadaMC must remain within the CanadaMC network. Developers are not permitted to contact these clients outside of the CanadaMC platform.
 
 Work Ownership: Any work completed by developers while working at CanadaMC is the property of CanadaMC and cannot be sold or distributed outside of the CanadaMC brand.
@@ -7,3 +9,9 @@ Work Ownership: Any work completed by developers while working at CanadaMC is th
 Legal Consequences: Failure to comply with these terms may result in legal action being taken against the developer.
 
 subject to change
+
+Confidentiality: Developers must maintain the confidentiality of any information or data they have access to while working at CanadaMC. This includes, but is not limited to, client information, project details, and company financials.
+
+Non-Compete: Developers may not work for or provide services to any direct competitors of CanadaMC while employed by CanadaMC and for a period of time after their employment ends.
+
+Code of Conduct: Developers are expected to adhere to a code of conduct while working at CanadaMC. This includes, but is not limited to, treating colleagues and clients with respect, avoiding conflicts of interest, and maintaining a professional demeanor.
